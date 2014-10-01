@@ -1,7 +1,7 @@
 import socket
 
 
-def print_machine_inf():
+def get_remote_machine_inf():
     """
     Pretty self explained, it will print the host name and ip address
     :return:
