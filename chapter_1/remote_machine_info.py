@@ -13,5 +13,5 @@ def get_remote_machine_inf():
 
 
 if __name__ == '__main__':  # If you are running this file, the statement return TRUE
-    print_machine_inf()
+    get_remote_machine_inf()
 
