@@ -1,2 +1,1 @@
-ENGLISH:
-    This project is only for academical purpose.
+This project is only for academical purpose.
